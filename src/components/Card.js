@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import "./Card.css"
 
 const Card = ({id, name, username, email}) => {
